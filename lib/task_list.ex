@@ -1,4 +1,4 @@
-defmodule Tasklist do
+defmodule Lib.Tasklist do
   # @file_name is a module attribute (constant)
   # can be used as annotations, temporary storage or constants
   @file_name "task_list.md"

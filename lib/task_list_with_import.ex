@@ -1,4 +1,4 @@
-defmodule Tasklist do
+defmodule Lib.Tasklist do
   # instead of calling File.read() you can call simply read()
   # the number after function name is the arity which is the number
   # of arguments a function receives
